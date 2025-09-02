@@ -11,32 +11,18 @@ I enjoy working at the intersection of physics, quantum computation, and machine
 
 # 💻 Tech Stack  
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-**Quantum Computing**  
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)  
-![D-Wave](https://img.shields.io/badge/D--Wave-2A3E59?style=for-the-badge&logo=d-wave&logoColor=white)  
-![Cirq](https://img.shields.io/badge/Cirq-FF6F00?style=for-the-badge&logo=google&logoColor=white)  
-![PennyLane](https://img.shields.io/badge/PennyLane-FF3366?style=for-the-badge&logo=quantum-computing&logoColor=white)  
-![TensorFlow Quantum](https://img.shields.io/badge/TensorFlow%20Quantum-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+**Quantum Computing:**  
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white) ![D-Wave](https://img.shields.io/badge/D--Wave-2A3E59?style=for-the-badge) ![Cirq](https://img.shields.io/badge/Cirq-FF6F00?style=for-the-badge&logo=google&logoColor=white) ![PennyLane](https://img.shields.io/badge/PennyLane-FF3366?style=for-the-badge) ![TensorFlow Quantum](https://img.shields.io/badge/TensorFlow%20Quantum-FF6F00?style=for-the-badge)
 
-**Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![SHAP](https://img.shields.io/badge/SHAP-009688?style=for-the-badge&logo=python&logoColor=white)  
-![LIME](https://img.shields.io/badge/LIME-00C853?style=for-the-badge&logo=python&logoColor=white)  
+**Machine Learning:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-009688?style=for-the-badge) ![LIME](https://img.shields.io/badge/LIME-00C853?style=for-the-badge)
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![HPC](https://img.shields.io/badge/HPC-0A192F?style=for-the-badge&logo=supermicro&logoColor=white)  
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![HPC](https://img.shields.io/badge/HPC-0A192F?style=for-the-badge)
 
-### 📫 Connect with Me
+
+## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/krishan-19-sharma/)
