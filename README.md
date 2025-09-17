@@ -25,4 +25,5 @@ I enjoy working at the intersection of physics, quantum computation, and machine
 
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/krishan-19-sharma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishan-19-sharma/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma.19.krishan@gmail.com)
